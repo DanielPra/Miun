@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class MiunArray {
 	public static void main(String args[]) {
-    Scanner myScanner = new Scanner(System.in);
+    	Scanner myScanner = new Scanner(System.in);
 		System.out.println("How long do you want the array to be");
 		int len = myScanner.nextInt();
 		int[] minArray = new int[len];
