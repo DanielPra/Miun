@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PositivtV2 { 	
+public class PositivtV3 { 	
 	public static void main(String[] args) {
 	int overhundred = 0, underhundra = 0, exakthundra = 0,totalsumma = 0, summaunder = 0;
 	int summaover = 0, antalnummer = 0;
